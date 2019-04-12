@@ -1,0 +1,58 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "f721e7fcd74d8bc95689280720667462534b3150bde69f1e03e503461b0f8d23"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.7"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "camelcase": {
+            "hashes": [
+                "sha256:cb416a1f5ee10473120ac49303a5b927b879c74de9624ebe2764b8cd26791ee2"
+            ],
+            "index": "pypi",
+            "version": "==0.2"
+        },
+        "djangorestframework": {
+            "hashes": [
+                "sha256:8a435df9007c8b7d8e69a21ef06650e3c0cbe0d4b09e55dd1bd74c89a75a9fcd",
+                "sha256:f7a266260d656e1cf4ca54d7a7349609dc8af4fe2590edd0ecd7d7643ea94a17"
+            ],
+            "index": "pypi",
+            "version": "==3.9.2"
+        },
+        "public": {
+            "hashes": [
+                "sha256:4f104163de000e4d430c03a91ac8918a8d615e2452007ee7108dcc4e5caa2f6c",
+                "sha256:b2250d4aca6719b66090402400de22777a37b0d2e9ac3ff74dc3f348725090fa"
+            ],
+            "version": "==2018.11.20"
+        },
+        "touch": {
+            "hashes": [
+                "sha256:2686967701884ae60895486ec8f62a50c1f1b34a8e3b004345c0a6ded9d2bc10",
+                "sha256:3c298ae59fbd7863c6908c45bdbe034ef9a201b3850ecb9e1d0fd40d1f0fb11d"
+            ],
+            "index": "pypi",
+            "version": "==2018.11.20"
+        },
+        "values": {
+            "hashes": [
+                "sha256:190c0abf6630a797c29010ebd47e99265d8d89cdc1e4d9a4e03534db3fd492ab",
+                "sha256:5ad6ae68e32deebaddf303c6f08e2f55706fdb27e9b11af41476419c2feb1a67"
+            ],
+            "version": "==2018.11.22"
+        }
+    },
+    "develop": {}
+}
